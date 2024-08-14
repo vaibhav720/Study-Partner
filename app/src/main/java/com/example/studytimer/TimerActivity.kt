@@ -20,6 +20,9 @@ import com.bumptech.glide.request.RequestOptions.bitmapTransform
 import jp.wasabeef.glide.transformations.BlurTransformation
 import java.util.Locale
 
+
+
+
 class TimerActivity : AppCompatActivity() {
 
     private lateinit var timer: CountDownTimer
